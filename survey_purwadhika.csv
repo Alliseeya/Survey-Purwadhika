@@ -1,0 +1,51 @@
+ID,Umur,Asal_Daerah,Pendidikan,Informasi_Purwadhika,Tingkat_Kemampuan,kelas,Pengeluaran_Bulanan,gender
+1,26,Jawa Tengah,S1,Instagram,2,DM,1200000,Pria
+2,23,Yogyakarta,S1,Teman,3,WD,2000000,Pria
+3,30,Jawa Tengah,S1,Lainnya,2,DM,1600000,Pria
+4,27,Bali,S1,Teman,3,DM,1100000,Pria
+5,24,Jawa Tengah,S1,Lainnya,1,WD,1200000,Pria
+6,21,Jawa Barat,S1,LinkedIn,2,WD,1500000,Pria
+7,28,Yogyakarta,S1,Instagram,1,WD,1400000,Pria
+8,22,Jawa Barat,SMA,Instagram,2,DM,1600000,Pria
+9,25,Yogyakarta,S1,Teman,3,WD,1600000,Pria
+10,29,Jawa Tengah,S1,Instagram,2,DM,1600000,Pria
+11,32,Jawa Barat,S1,Lainnya,1,WD,1500000,Pria
+12,20,Jawa Tengah,SMA,Teman,3,WD,1500000,Pria
+13,31,Jawa Timur,S1,Instagram,1,DM,1600000,Pria
+14,23,Yogyakarta,S1,Teman,3,DM,1400000,Pria
+15,28,Bali,S1,LinkedIn,2,DM,1500000,Pria
+16,24,Jawa Tengah,S1,Instagram,1,DM,1400000,Pria
+17,33,Papua,S1,Instagram,3,DM,1400000,Pria
+18,27,Jawa Tengah,S1,Teman,2,DM,1500000,Pria
+19,25,Yogyakarta,S1,Instagram,1,DM,1400000,Pria
+20,30,Jawa Barat,S1,Lainnya,3,WD,800000,Pria
+21,26,Jawa Tengah,S1,Instagram,2,WD,2000000,Pria
+22,24,Yogyakarta,SMA,Instagram,1,WD,1100000,Pria
+23,22,Jawa Tengah,S1,LinkedIn,3,DM,1600000,Pria
+24,31,Sumatera Barat,S1,Teman,2,DM,1300000,Pria
+25,25,Yogyakarta,S1,Lainnya,1,DM,2000000,Pria
+26,27,Jawa Tengah,S1,Instagram,3,DM,1300000,Pria
+27,23,Jawa Tengah,S1,Teman,2,WD,1500000,Pria
+28,29,Jawa Barat,S1,Lainnya,1,WD,1700000,Pria
+29,34,Papua,S1,Instagram,3,DM,1000000,Wanita
+30,35,Bali,S1,Teman,2,WD,1300000,Pria
+31,21,Yogyakarta,S1,LinkedIn,1,DM,900000,Pria
+32,22,Jawa Tengah,S1,Instagram,3,WD,1100000,Pria
+33,29,Jawa Barat,S1,Instagram,2,DM,1300000,Pria
+34,30,Jawa Tengah,S1,Lainnya,1,DM,1300000,Pria
+35,23,Yogyakarta,S1,Teman,3,WD,1800000,Pria
+36,26,Sumatera Barat,S1,Instagram,2,DM,1200000,Wanita
+37,24,Jawa Barat,S1,Teman,1,DM,1700000,Pria
+38,28,Jawa Tengah,S1,Instagram,3,DM,1100000,Pria
+39,30,Jawa Barat,S1,LinkedIn,2,DM,900000,Pria
+40,25,Yogyakarta,S1,Lainnya,1,DM,1400000,Pria
+41,33,Bali,S1,Instagram,3,WD,1800000,Pria
+42,34,Papua,S1,Instagram,2,WD,1400000,Pria
+43,27,Jawa Barat,S1,LinkedIn,1,DM,1500000,Wanita
+44,24,Jawa Tengah,S1,Lainnya,3,WD,1500000,Pria
+45,29,Sumatera Barat,S1,Teman,2,DM,1400000,Wanita
+46,32,Jawa Tengah,SMA,Twitter,1,DM,1700000,Pria
+47,23,Jawa Barat,S1,Instagram,3,DM,1600000,Pria
+48,39,Yogyakarta,S1,Teman,2,WD,1000000,Pria
+49,33,Bali,S1,Lainnya,1,DM,1600000,Wanita
+50,20,Jawa Barat,S1,Twitter,3,WD,900000,Pria
